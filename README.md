@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # My Watchlist
 
-This project is about a watchlist. In this project, I used React with Context API, useReducer, and Local Storage.
+This project is about a watchlist. In this project, I used React with Context API, useReducer, and Local Storage. I used TMDB API for movie data.
 
 
 ## Demo
