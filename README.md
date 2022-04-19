@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# My Watchlist
+
+This project is about a watchlist. In this project, I used React with Context API, useReducer, and Local Storage.
+
+
+## Demo
+
+![giphy (1)](https://user-images.githubusercontent.com/48470345/164116947-2207c3c1-3cc1-4e65-9988-bf5997936488.gif)
+
+
+Demo Link : https://emin-movie-watchlist.netlify.app/
+
+YouTube Tutorial Link: 
+
 ## Available Scripts
 
 In the project directory, you can run:
